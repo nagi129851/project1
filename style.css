@@ -1,0 +1,19 @@
+input
+{
+    /* border: 1px solid red; */
+    width: 400px;
+    height: 30px;
+    margin: 30px;
+    font-size: 1.10rem;
+}
+.navbar{
+    border: 1px solid red;
+    color: #ffffff;
+    background-color: black;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 16px;
+    font-size: .8em;
+    letter-spacing: .02em;
+    text-transform: uppercase;
+}
